@@ -1,4 +1,4 @@
-# testapi
+# Sample API
 
 to create database and table, run following on shell:
 mysql -u root <api/restAPI.sql
